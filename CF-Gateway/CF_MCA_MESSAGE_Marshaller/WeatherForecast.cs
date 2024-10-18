@@ -1,4 +1,4 @@
-namespace CF_Gateway
+﻿namespace CF_MCA_MESSAGE_Marshaller
 {
     public class WeatherForecast
     {
